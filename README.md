@@ -7,8 +7,8 @@ I gave this challenge my best and i am looking forward to take every challenge y
 
 
 ### Screenshots
---Desktop View Screenshot -> [Desktop-View.png]
---Mobile View Screenshot -> [Mobile-View.png]
+- Desktop View Screenshot: [Desktop-View.png]
+- Mobile View Screenshot: [Mobile-View.png]
 
 
 ### Links
