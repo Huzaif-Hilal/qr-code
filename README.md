@@ -15,8 +15,8 @@ I gave this challenge my best and i am looking forward to take every challenge y
 
 ### Screenshots
 
-![Desktop-Preview](Desktop-Preview.png)
-![Mobile-Preview](Mobile-Preview.png)
+![Desktop-Preview](Desktop-View.png)
+![Mobile-Preview](Mobile-View.png)
 
 
 ### Links
