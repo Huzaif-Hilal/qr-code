@@ -12,8 +12,7 @@ I gave this challenge my best and i am looking forward to take every challenge y
 
 
 ### Links
-- Solution URL: [https://qr-code-of-frontend-mentor.netlify.app/]
-- Live Site URL: [https://qr-code-of-frontend-mentor.netlify.app/code.txt]
+- Live Site URL: [https://qr-code-of-frontend-mentor.netlify.app]
 
 
 ## My process
