@@ -7,8 +7,8 @@ I gave this challenge my best and i am looking forward to take every challenge y
 
 
 ### Screenshots
---Desktop View Screenshot -> [\Screenshots\Desktop-View.png]
---Mobile View Screenshot -> [\Screenshots\Mobile-View.png]
+--Desktop View Screenshot -> [Desktop-View.png]
+--Mobile View Screenshot -> [Mobile-View.png]
 
 
 ### Links
@@ -16,9 +16,6 @@ I gave this challenge my best and i am looking forward to take every challenge y
 
 
 ## My process
-I used  VS Code for the writing of code, I used media query on the 414px as i was using live server to cast the web on to my mobile phone and it was not working while using media query on 375px so i used media query on 414px and the query is working fine even for the 375px of devices i.e devices having width less than 414px. I am using netlify.com for hosting my web. i have provided the link of my source code in the solution url and the live web in the Live Site URL section. While Programming this page i used the font-size of 20px instead of 15px for heading because it was not looking similar to the screenshot provided. for description text instead of 15px i used 14px for the same reason. I have provided Every Information that i thought was important to be known for you.
-
-
 ### Built with
 - Semantic HTML5 markup
 - CSS custom properties
@@ -28,11 +25,6 @@ I used  VS Code for the writing of code, I used media query on the 414px as i wa
 
 ### What I learned
 I used everything that i was having knowlegde of, As this was the first challenge i have taken till now so ididn't learn anything new at all but still i think the Front-end Mentor is the best website for the begginers and all the other programmers who are seeking to sharpen their skills.
-
-
-### Continued development
-
-
 
 ### Useful resources
 - [W3 Schools](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) - This helped me for remembering me of media query. I was forgotten the usage and syntax of media query. And now on forward i will try my best to keep remembering every concept i have learnt till now.
